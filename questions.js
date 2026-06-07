@@ -11,7 +11,23 @@ const gameData = [
             points: 200,
             question: "The period that came between the Triassic and Cretaceous periods.",
             answer: "What is the Jurassic period?"
-        }
+        },
+        {
+            points: 300,
+            question: "What is the name of this prehistoric creature?",
+            image: "images/ammonite.jfif",
+            answer: "What is Ammonite?"
+        },
+        {
+            points: 400,
+            question: "This still surviving ancient creature bleeds blue.",
+            answer: "What is the Horseshoe Crab?"
+        },
+        {
+            points: 500,
+            question: "",
+            answer: ""
+        },
     ]
 },
 
@@ -94,18 +110,18 @@ const gameData = [
         },
         {
             points: 300,
-            question: "",
-            answer: ""
+            question: "This is many endings does Deltarune have",
+            answer: "What is 2?"
         },
         {
             points: 400,
-            question: "",
-            answer: ""
+            question: "The color are Pomni's eyes",
+            answer: "What is Red and Blue?"
         },
         {
             points: 500,
-            question: "",
-            answer: ""
+            question: "This is the location that FNAF 3 takes place in.",
+            answer: "Where is Fazbear's Fright: The Horror Attraction?"
         },
     ]
 },
