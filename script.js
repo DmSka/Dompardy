@@ -7,6 +7,8 @@ const answerText = document.getElementById("answerText");
 const showAnswerButton = document.getElementById("showAnswer");
 const closeButton = document.getElementById("closeQuestion");
 
+const questionImage = document.getElementById("questionImage");
+
 let currentAnswer = "";
 
 gameData.forEach(category => {
@@ -37,6 +39,13 @@ gameData.forEach(category => {
             currentAnswer = question.answer;
 
             box.classList.add("used");
+            
+            if (question.image) {
+                questionImage.src = question.image;
+                questionImage.style.display = "block";
+            } else {
+                questionImage.style.display = "none";
+            }
 
         });
 
