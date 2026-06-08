@@ -25,8 +25,8 @@ const gameData = [
         },
         {
             points: 500,
-            question: "",
-            answer: ""
+            question: "Giant versions of this animal dug large burrows in the ground and are believed to have been around 30 feet long.",
+            answer: "What is the Giant Sloth?"
         },
     ]
 },
@@ -69,28 +69,28 @@ const gameData = [
     questions: [
         {
             points: 100,
-            question: "",
-            answer: ""
+            question: "The actor who plays Mel is the daughter of this famous actor.",
+            answer: "Who is Bryan Cranston?"
         },
         {
             points: 200,
-            question: "",
-            answer: ""
+            question: "The nickname Santos gives Whitaker.",
+            answer: "What is Huckleberry?"
         },
         {
             points: 300,
-            question: "",
-            answer: ""
+            question: "The system used in emergency medicine to prioritize patients based on severity of condition.",
+            answer: "What is triage?"
         },
         {
             points: 400,
-            question: "",
-            answer: ""
+            question: "The mass casualty incident in season one originates at this public event.",
+            answer: "What is PittFest?"
         },
         {
             points: 500,
-            question: "",
-            answer: ""
+            question: "The type of shock caused by severe blood loss, commonly seen in trauma bays.",
+            answer: "What is Hypovolemic shock?"
         },
     ]
 },
@@ -105,8 +105,8 @@ const gameData = [
         },
         {
             points: 200,
-            question: "",
-            answer: ""
+            question: "This is the creature of the Amazing Digital Circus.",
+            answer: "Who is Gooseworks?"
         },
         {
             points: 300,
@@ -159,32 +159,32 @@ const gameData = [
 },
 
 {
-    category: "",
+    category: "ABS (Always Be Stimming)",
     questions: [
         {
             points: 100,
-            question: "",
-            answer: ""
+            question: "This is my main goal.",
+            answer: "What is 'to blow up and act like I don't know nobody'?"
         },
         {
             points: 200,
-            question: "",
-            answer: ""
+            question: "On February 19th, 2020 this rap artist passed away.",
+            answer: "Who is Pop Smoke?"
         },
         {
             points: 300,
-            question: "",
-            answer: ""
+            question: "In french 'aire de restauration' has many definitions, but most commonly it is defined as this.",
+            answer: "What is foodcourt?"
         },
         {
             points: 400,
-            question: "",
-            answer: ""
+            question: "This is nim's longest recorded sentence.",
+            answer: "What is 'Give orange me give eat orange me eat orange give me eat orange give me give eat orange me eat orange give me eat orange give me give eat orange me eat orange give me eat orange give me eat orange give me eat orange give me you'?"
         },
         {
             points: 500,
-            question: "",
-            answer: ""
+            question: "What the small pink younglings shout as 'they sit and go wild with fun'",
+            answer: "What is 'Hello Daddy Pim?"
         },
     ]
 },
