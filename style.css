@@ -26,13 +26,20 @@ h1{
 }
 
 .category{
-    color:#d69f48;
+    color:#ffffff;
     background:#041175;
+    text-transform: uppercase;
     text-align:center;
     font-size:2rem;
     font-weight:bold;
     text-shadow:3px 3px black;
-    padding:20px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    border:2px solid black;
+    border-bottom: 6px solid #000000;
 }
 
 .questionBox{
